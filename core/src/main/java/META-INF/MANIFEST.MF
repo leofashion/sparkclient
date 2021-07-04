@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+Main-Class: org.jivesoftware.launcher.Startup
+Class-Path: thumbnailator-0.4.8.jar xml-apis-1.0.b2.jar commons-logging-
+ 1.0.4.jar install4j-runtime-6.0.4.jar commons-lang3-3.9.jar slf4j-api-1
+ .8.0-beta4.jar commons-codec-1.2.jar substance-7.3.jar jintellitype-1.3
+ .9.jar xpp3_min-1.1.4c.jar LoboBrowser-1.0.0.jar swingx-painters-1.6.3.
+ jar swingx-common-1.6.3.jar smack-core-4.3.4.jar littleluck-2.0.1.jar s
+ mack-im-4.3.4.jar smack-compression-jzlib-4.3.4.jar swingx-action-1.6.3
+ .jar jxmpp-jid-0.6.4.jar xpp3-1.1.4c.jar servlet-api-2.3.jar xstream-1.
+ 4.11.1.jar bctls-jdk15on-1.66.jar jzlib-1.1.3.jar smack-resolver-javax-
+ 4.3.4.jar netty-3.2.1.Final.jar AppleJavaExtensions-1.4.jar swingx-auto
+ complete-1.6.3.jar jna-5.2.0.jar NinePatch-1.0.jar xmlpull-1.1.3.1.jar 
+ httpunit-1.7.jar jtidy-4aug2000r7-dev.jar jaxen-1.2.0.jar laf-widget-7.
+ 3.jar jxmpp-core-0.6.4.jar minidns-core-0.3.4.jar smack-tcp-4.3.4.jar s
+ wingx-plaf-1.6.3.jar smack-experimental-4.3.4.jar bcprov-jdk15on-1.66.j
+ ar smack-debug-slf4j-4.3.4.jar jxmpp-util-cache-0.6.4.jar smack-debug-4
+ .3.4.jar smack-sasl-javax-4.3.4.jar JTattoo-1.6.13.jar smack-java7-4.3.
+ 4.jar js-1.7R1.jar smack-legacy-4.3.4.jar slf4j-log4j12-1.5.6.jar commo
+ ns-httpclient-3.1.jar trident-7.3-swing.jar jgntp-1.2.1.jar guava-r06.j
+ ar bcpkix-jdk15on-1.66.jar swingx-all-1.6.5-1.jar swingx-core-1.6.3.jar
+  smack-extensions-4.3.4.jar jna-platform-5.2.0.jar substance-swingx-7.3
+ .jar log4j-1.2.14.jar dom4j-1.6.1.jar laf-plugin-7.3.jar
+
